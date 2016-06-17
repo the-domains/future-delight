@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[future delight]]></title>
+        <description><![CDATA[future delight]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 23:15:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Max Team Racing is an Omani based go-kart racing team racing mainly at Muscat Speedway located in Oman Automobile Association</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c48f44e4afddcf3661ea8a84c7e576f0/noop?input=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F549fdf4be4b07bee035cb94f%2Ft%2F54abc18ae4b0f3612b249e5e%2F1439938470728%2F%3Fformat%3D1000w"></article>]]></description>
+            <link>http://www.maxteamracing.com/#intro</link>
+            <guid isPermaLink="false">9d4e8f11-8a82-41e8-b72b-7d69a5769fb2</guid>
+            <pubDate>Fri, 17 Jun 2016 23:15:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
